@@ -4,13 +4,13 @@
 
 <p>Botón <strong>"Todos":</strong> Lista todos los mensajes guardados en la base de datos. En caso de no haber mensajes lo alerta por pantalla.</p>
 <p>Botón <strong>"No Leidos":</strong> Lista todos los mensajes no leídos guardados en la base de datos.En caso de no haber mensajes lo alerta por pantalla.</p>
-<p><strong>"Checkbox":</strong> Esta presente en cada mensaje. Al tildar/destildar modifico la propiedad de "leido/no leido".</p>
+<p>Botón <strong>"Checkbox":</strong> Esta presente en cada mensaje. Al tildar/destildar modifico la propiedad de "leido/no leido".</p>
 <p>Botón <strong>"Borrar":</strong> Esta presente en cada mensaje. Al presionarlo se abre una ventana de confirmación para borrarlo.</p>
 <p>Botón <strong>"Guardar":</strong> Guarda todos los cambios realizados en la base de datos y muestra un mensaje de confirmación exitosa o bien de alerta si se presionó sin haber realizado cambios.</p><br>
 
 <h2>Tecnologías y librerías utilizadas</h2>
 <p><strong>HTML, CSS, Javascript, Bootstrap, Fontawesome</strong> </p>
-<h2>Deploy</h2>
+<h2>Deploys</h2>
 <p>Te invito a visitar mi Web Personal y a que envies un mensaje desde la sección "contacto": https://ernesto-buiatti-mi-web-personal.vercel.app/</p>
 <p>Visita <strong>ErMail</strong>, mi visualizador de correos y marca como "leido/no leido" o elimina tu propio mensaje: https://ermail.vercel.app/</p>
 <h2>Repositorios</h2>
