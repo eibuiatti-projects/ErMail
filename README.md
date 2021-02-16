@@ -12,7 +12,7 @@
 <p><strong>HTML, CSS, Javascript, Bootstrap, Fontawesome</strong> </p>
 <h2>Deploy</h2>
 <p>Te invito a visitar mi Web Personal y a que envies un mensaje desde la sección "contacto": https://ernesto-buiatti-mi-web-personal.vercel.app/</p>
-<p>Podes visitar además mi visualizador de correos y marcar como leido/no leido o eliminar tu propio mensaje: https://ermail.vercel.app/</p>
+<p>Visita <strong>ErMail</strong>, mi visualizador de correos y marca como "leido/no leido" o elimina tu propio mensaje: https://ermail.vercel.app/</p>
 <h2>Repositorios</h2>
 <p>Mi-Web-Personal-Frontend: https://github.com/eibuiatti-projects/Mi-Web-Personal-Frontend</p>
 <p>Mi-Web-Personal-Backend: https://github.com/eibuiatti-projects/Mi-Web-Personal-Backend</p>
